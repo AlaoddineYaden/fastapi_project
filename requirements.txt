@@ -1,0 +1,6 @@
+fastapi~=0.71.0
+uvicorn~=0.17.0
+aiofiles
+python-multipart
+git+https://github.com/mikeckennedy/fastapi-chameleon
+starlette~=0.17.1
